@@ -1,3 +1,8 @@
+> **rustyTLS — fork of [0x676e67/wreq](https://github.com/0x676e67/wreq)** by thesupersupersigma.
+> This is the TLS-impersonation layer of [RECONSUMΣT.TS](https://github.com/thesupersupersigma/RECONSUMET.TS), used from
+> Node through [rustyTLS-js](https://github.com/thesupersupersigma/rustyTLS-js). Our changes stay a small patch set on
+> top of upstream, regularly rebased. License unchanged: Apache-2.0 (see [LICENSE](LICENSE)); the original README follows.
+
 # wreq
 
 [![CI](https://github.com/0x676e67/wreq/actions/workflows/ci.yml/badge.svg)](https://github.com/0x676e67/wreq/actions/workflows/ci.yml)
